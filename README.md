@@ -45,4 +45,5 @@ The final outcome is a responsive "TaskMaster" app that allows users to effectiv
 
 ### 📬 Connect
 * **LinkedIn:** https://www.linkedin.com/in/vaibhavi-bam-458580345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-* **GitHub:**
+* **GitHub:** https://github.com/bamvaibhavi
+
